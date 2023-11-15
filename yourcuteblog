@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Cute Blog</title>
+  <style>
+    body {
+      background-color: #fde6e6; /* light pink background */
+      color: #333; /* dark text color */
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #ffcccc; /* lighter pink header background */
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #e60073; /* pink heading color */
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    article {
+      background-color: #fff; /* white background for articles */
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #ffcccc; /* lighter pink footer background */
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Your Cute Blog</h1>
+  </header>
+
+  <main>
+    <article>
+      <h2>Post Title 1</h2>
+      <p>Your content goes here.</p>
+    </article>
+
+    <article>
+      <h2>Post Title 2</h2>
+      <p>More adorable content for your readers.</p>
+    </article>
+  </main>
+
+  <footer>
+    &copy; 2023 Your Cute Blog
+  </footer>
+</body>
+</html>
